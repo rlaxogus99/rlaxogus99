@@ -4,4 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaxogus99&show_icons=true&theme=radical)
 
+# Languages
+![C#](https://img.shields.io/badge/csharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogus99&layout=compact)
